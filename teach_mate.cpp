@@ -1,6 +1,7 @@
 #include <iostream>
 #include <sstream>
 #include <fstream>
+#include <map>
 #include "teach_mate.h"
 
 std::map<int, bool> TeachMateFunction(std::string className){
